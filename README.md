@@ -1,3 +1,4 @@
+![logo](https://github.com/IamChiranjeeviR/IamChiranjeeviR/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Chiranjeevi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="350" border-radius="10px" src="https://miro.medium.com/v2/resize:fit:1358/1*kIacWWXjfYBFXqIXhIuCXQ.gif">
